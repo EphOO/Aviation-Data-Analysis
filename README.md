@@ -37,8 +37,9 @@ What will be the average price of Vistara airline for a flight from Delhi to Hyd
 
 How does the ticket price vary between the Economy and Business class
 # Visualization
-Bar and barplot for Departure and Arrival Time Ticket Price
-Catplot for variaton between Price and differnt Airline
+Bar and barplot for Departure and Arrival Time Ticket Price.
+
+Catplot for variaton between Price and differnt Airline.
 # Insights and Findings
 Flight booked a few days before departure are more expensive than those booked earlier.
 
